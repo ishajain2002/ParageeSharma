@@ -7,7 +7,9 @@
 
 - 🤝 I’m looking for help with **good books for coding (for beginners)**
 
-- 📫 How to reach me **paragee.rpr@gmail.com**
+- 📫 How to reach me 📧 **paragee.rpr@gmail.com**
+- 👥 I am working as a content writer for OpinCo Community
+- 🎤 I do anchoring for Computer Society Of India, BIT, Durg chapter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
