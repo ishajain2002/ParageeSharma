@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm am Paragee Sharma</h1>
-<h3 align="center">A 2nd year CSE undergraduate.</h3>
+<h3 align="center">A pre-final year CSE undergraduate.</h3>
 
 - 🔭 I’m currently working on **sharpening up my coding skills**
 
