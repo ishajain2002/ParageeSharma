@@ -2,7 +2,7 @@
 <h3 align="center">A pre-final year CSE undergraduate.</h3>
 
 - 🔭 I’m currently working on **sharpening up my coding skills**
-- ⭐️ Microsoft Student Ambassador'22
+- ⭐️ Microsoft Learn Student Ambassador'22
 - 🌱 I’m currently learning **JAVA and C++**
 
 - 🤝 I’m looking for help with **good books for coding (for beginners)**
