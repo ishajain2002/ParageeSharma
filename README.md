@@ -2,7 +2,7 @@
 <h3 align="center">A pre-final year CSE undergraduate.</h3>
 
 - 🔭 I’m currently working on **sharpening up my coding skills**
-- ⭐️ Microsoft Learn Student Ambassador'22**
+- ⭐️ Microsoft Learn Student Ambassador'22
 - 🌱 I’m currently learning **JAVA and C++**
 - 📫 How to reach me 📧 **paragee.rpr@gmail.com**
 - 👥 I am working as a content writer for OpinCo Community
